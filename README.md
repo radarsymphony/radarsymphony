@@ -2,16 +2,17 @@
 
 My name is Grey. I live on the beautiful west coast of Canada and I'm driven to understand how things work. This curiosity is fairly broad and ranges from the chemistry of sourdough bread, to the physics of sailing, to RAID and error-checking in data storage. In university, I studied authenticity and bringing a sense of _play_ to our everyday lives. 
 
-In IT, I've spent a lot of my time exploring a Linux-based self-hosted infrastructure and working alongside project-coordinators to improve IT processes. From this experience, I've learned that enjoy:
+In IT, I've been exploring a Linux-based self-hosted infrastructure and I've been working alongside project-coordinators to improve IT processes. From this experience, I've learned that I enjoy:
 
 - Writing bash scripts, documentation, processes, and diagrams as code.
 - Considering how low-level technical details affect over-arching processes and vice versa.
 - Testing bugs and establishing the steps to replicate them reliably. 
 - Spending time with people who are excited to share what they're learning!
 
-I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing - contributing to something greater. I'm excited to keep learning and contributing[^2].
 
 ## Working together
+I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing - contributing to something greater. I'm excited to keep learning and contributing[^2].
+
 If you're interesting in working together, then please reach out!  (radarsymphony at protonmail dot com)
 
 ### Projects
