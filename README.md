@@ -4,14 +4,15 @@ My name is Grey. I live on the beautiful west coast of Canada and I'm driven to 
 
 In IT, I've been exploring a Linux-based self-hosted infrastructure and I've been working alongside project-coordinators to improve IT processes. From this experience, I've learned that I enjoy:
 
-- Writing bash scripts, documentation, processes, and diagrams as code.
-- Considering how low-level technical details affect over-arching processes and vice versa.
+- Exploring the wonderful and wacky world of opensource software. 
+- Supporting decision-makers by serving as an interface to low-level technical details.
+- Designing bash scripts, documentation, processes, and diagrams as code.
 - Testing bugs and establishing the steps to replicate them reliably. 
 - Spending time with people who are excited to share what they're learning!
 
 
 ## Working together
-I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing - contributing to something greater. I'm excited to keep learning and contributing[^2].
+I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing to something greater. I'm excited to keep learning and contributing[^2].
 
 If you're interesting in working together, then please reach out!  (radarsymphony at protonmail dot com)
 
@@ -29,14 +30,12 @@ The following are some projects I've completed for clients.
 
 ### Personal Projects
 Here are some of the projects I'm working on to develop my skills and improve the tech-related tools I use.
-- Dockerizing [Kimai Timetracking tool](https://www.kimai.org/) ala [tiredofit](https://github.com/tiredofit/).
-- Refining [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Starting to translate this layout in [Kmonad](https://github.com/kmonad/kmonad) for laptop.
 - Transitioning to self-hosting my data on a [Raspberry Pi](https://www.raspberrypi.com/).
 - [Basic website](kryptoncode.com/) using [Hugo static site generator](https://gohugo.io/) hosted on github.io deployed by [github workflows](https://docs.github.com/en/actions).
+- Refining [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Starting to translate this layout in [Kmonad](https://github.com/kmonad/kmonad) for laptop.
 - Setting up a [Kubernetes](https://kubernetes.io/) cluster in [Oracle's free-tier cloud](https://www.oracle.com/cloud/free/). I plan to release my steps on my blog soon.
- - Designing a proxy and timer system for [Uptime Kuma](https://github.com/louislam/uptime-kuma) to monitor docker containers running on private networks. On the back burner for now while I learn the security considerations of exposing docker networks.
 - Flashing opensource firmware ([ddwrt](https://dd-wrt.com/), [openwrt](https://openwrt.org/)) onto routers to enable increased networking functionality.
-- Converting old chromebook to run Linux kernal/OS. 
+- Converting old chromebooks to run Linux kernal/OS.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
