@@ -30,10 +30,10 @@ The following are some projects I've completed for clients.
 
 ### Personal Projects
 Here are some of the projects I'm working on to develop my skills and improve the tech-related tools I use.
-- Transitioning to self-hosting my data on a [Raspberry Pi](https://www.raspberrypi.com/).
+- Transition to self-hosting my data on a [Raspberry Pi](https://www.raspberrypi.com/).
 - [Basic website](kryptoncode.com/) using [Hugo static site generator](https://gohugo.io/) hosted on github.io deployed by [github workflows](https://docs.github.com/en/actions).
-- Refining [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Starting to translate this layout in [Kmonad](https://github.com/kmonad/kmonad) for laptop.
 - Setting up a [Kubernetes](https://kubernetes.io/) cluster in [Oracle's free-tier cloud](https://www.oracle.com/cloud/free/). I plan to release my steps on my blog soon.
+- Refine [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Translate this layout into a [config file](https://github.com/radarsymphony/dotfiles/blob/main/.config/keyd/default.conf) for [Keyd](https://github.com/rvaiya/keyd) so that I can use the same keylayout for my laptop.
 - Flashing opensource firmware ([ddwrt](https://dd-wrt.com/), [openwrt](https://openwrt.org/)) onto routers to enable increased networking functionality.
 - Converting old chromebooks to run Linux kernal/OS.
 
