@@ -15,13 +15,13 @@ In IT, I've been exploring a Linux-based self-hosted infrastructure and I've bee
 
 
 ## Working together
-I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing to something greater. I'm excited to keep learning and contributing[^2].
+I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[1](#footnotes), I have a sense of contributing to something greater. I'm excited to keep learning and contributing[2](#footnotes).
 
 If you're interesting in working together, then please reach out!  (radarsymphony at protonmail dot com)
 
 ### Projects
 The following are some projects I've completed for clients.
-- Migrated company's email data out of google into self-hosted solution by leveraging [imapsync](https://imapsync.lamiral.info/) and bash scripting[^3].
+- Migrated company's email data out of google into self-hosted solution by leveraging [imapsync](https://imapsync.lamiral.info/) and bash scripting[3](#footnotes).
 - Migrated company [3cx VOIP system](https://www.3cx.com/) out of AWS to self-managed VPS. 
 - Managed and provisioned Docker-based applications using CLI and Traefik proxy.
 - Automated tasks and linked business processes with bash scripting and GUI tools like [n8n](https://n8n.io/).
@@ -51,10 +51,11 @@ style="vertical-align:top; margin:4px">
 <img src="https://i3wm.org/favicon.ico" alt="i3wm" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## footnotes
 
-[^1]: Example bug reports: [Bookstack issue](https://github.com/BookStackApp/BookStack/issues/3477), [Nextcloud issue](https://github.com/nextcloud/richdocuments/issues/2941), [Freescout issue](https://github.com/freescout-helpdesk/freescout/issues/2189)
-[^2]: I'm intrigued by how the opensource community manages these common resources. In my day-to-day, I'm asking: How does the opensource community mitigate "the tragedy of the commons" and how is it still susceptible? What takeaways are useful in others areas of life? Yes, these "resources" are digital and perhaps not constrained by the same laws that govern natural resources. But they are resources that take maintenance and management. They require people to coordinate and communicate. And the health of the resource is often dependent on how people give back. 
-[^3]: I was later able to use Imapsync and bash scripting to salvage IMAP data from a corrupted MariaDB instance.
+1. Example bug reports: [Bookstack issue](https://github.com/BookStackApp/BookStack/issues/3477), [Nextcloud issue](https://github.com/nextcloud/richdocuments/issues/2941), [Freescout issue](https://github.com/freescout-helpdesk/freescout/issues/2189)
+2. I'm intrigued by how the opensource community manages these common resources. How does the opensource community mitigate "the tragedy of the commons" and how is it still susceptible? What takeaways are useful in others areas of life? Yes, these "resources" are digital and perhaps not constrained by the same laws that govern natural resources. But they are resources that take maintenance and management. They require people to coordinate and communicate. And the health of the resource is often dependent on how people give back. 
+3. I was later able to use Imapsync and bash scripting to salvage IMAP data from a corrupted MariaDB instance.
 
 
 </details>
