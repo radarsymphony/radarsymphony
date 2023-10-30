@@ -11,6 +11,9 @@ In IT, I've been exploring a Linux-based self-hosted infrastructure and I've bee
 - Spending time with people who are excited to share what they're learning!
 
 
+<details><summary>Click for more info</summary>
+
+
 ## Working together
 I feel exceptionally lucky to work with opensource. I get to help maintain communal resources and witness other curious generous people doing the same. Even when describing how to replicate a bug[^1], I have a sense of contributing to something greater. I'm excited to keep learning and contributing[^2].
 
@@ -53,3 +56,5 @@ style="vertical-align:top; margin:4px">
 [^2]: I'm intrigued by how the opensource community manages these common resources. In my day-to-day, I'm asking: How does the opensource community mitigate "the tragedy of the commons" and how is it still susceptible? What takeaways are useful in others areas of life? Yes, these "resources" are digital and perhaps not constrained by the same laws that govern natural resources. But they are resources that take maintenance and management. They require people to coordinate and communicate. And the health of the resource is often dependent on how people give back. 
 [^3]: I was later able to use Imapsync and bash scripting to salvage IMAP data from a corrupted MariaDB instance.
 
+
+</details>
