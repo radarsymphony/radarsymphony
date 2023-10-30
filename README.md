@@ -26,16 +26,15 @@ The following are some projects I've completed for clients.
 - Designed a process for quickly creating infrastructure diagrams using [Structurizr](structurizr.com/) to host [C4](https://c4model.com/) inspired diagrams. This included dividing the code into modules and templates to make diagrams consistent and maintainable. 
 - Designed an incident response and escalation procedure and trained team through lessons and drills.
 - Designed a release-management system for monitoring and categorizing new releases into priority levels.
-- Helped team members learn Linux CLI, basic docker management, and how to use [git](https://git-scm.com/) to improve their skills and support them to create their first pull requests.
+- Helped team members learn Linux CLI, basic docker management, and how to use [git](https://git-scm.com/) to build new skills and create their first pull requests.
 
 ### Personal Projects
 Here are some of the projects I'm working on to develop my skills and improve the tech-related tools I use.
 - Transition to self-hosting my data on a [Raspberry Pi](https://www.raspberrypi.com/).
-- [Basic website](kryptoncode.com/) using [Hugo static site generator](https://gohugo.io/) hosted on github.io deployed by [github workflows](https://docs.github.com/en/actions).
-- Setting up a [Kubernetes](https://kubernetes.io/) cluster in [Oracle's free-tier cloud](https://www.oracle.com/cloud/free/). I plan to release my steps on my blog soon.
-- Refine [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Translate this layout into a [config file](https://github.com/radarsymphony/dotfiles/blob/main/.config/keyd/default.conf) for [Keyd](https://github.com/rvaiya/keyd) so that I can use the same keylayout for my laptop.
+- Build [blog](https://knightsdata.com) using [Hugo static site generator](https://gohugo.io/) hosted on github.io deployed by [github actions](https://docs.github.com/en/actions).
 - Flashing opensource firmware ([ddwrt](https://dd-wrt.com/), [openwrt](https://openwrt.org/)) onto routers to enable increased networking functionality.
-- Converting old chromebooks to run Linux kernal/OS.
+- Configure [Tailscale](https://tailscale.com/) and [Headscale](https://headscale.net/) to run in Docker containers using host networking on Oracle Cloud VPS and personal devices.
+- Refine [my custom keyboard layout](https://github.com/radarsymphony/qmk_firmware/tree/master/keyboards/ferris/keymaps/radarsymphony) (based on Colemak-DH) for better ergonomics and [i3wm](https://i3wm.org/) integration. Translate this layout into a [config file](https://github.com/radarsymphony/dotfiles/blob/main/.config/keyd/default.conf) for [Keyd](https://github.com/rvaiya/keyd) so that I can use the same keylayout for my laptop.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
@@ -50,7 +49,7 @@ style="vertical-align:top; margin:4px">
 </p>
 
 
-[^1]: Example bug reports: [Bookstack](https://github.com/BookStackApp/BookStack/issues/3477) [Nextcloud](https://github.com/nextcloud/richdocuments/issues/2941) [Freescout](https://github.com/freescout-helpdesk/freescout/issues/2189)
+[^1]: Example bug reports: [Bookstack issue](https://github.com/BookStackApp/BookStack/issues/3477), [Nextcloud issue](https://github.com/nextcloud/richdocuments/issues/2941), [Freescout issue](https://github.com/freescout-helpdesk/freescout/issues/2189)
 [^2]: I'm intrigued by how the opensource community manages these common resources. In my day-to-day, I'm asking: How does the opensource community mitigate "the tragedy of the commons" and how is it still susceptible? What takeaways are useful in others areas of life? Yes, these "resources" are digital and perhaps not constrained by the same laws that govern natural resources. But they are resources that take maintenance and management. They require people to coordinate and communicate. And the health of the resource is often dependent on how people give back. 
-[^3]: I was later able to use Imapsync and bash scripting to salvage imap data from a corrupted MariaDB instance.
+[^3]: I was later able to use Imapsync and bash scripting to salvage IMAP data from a corrupted MariaDB instance.
 
